@@ -3,6 +3,9 @@
 ## Project Overview
 This project analyzes sales data using Microsoft Excel and presents insights through an interactive dashboard. The objective of this project is to understand sales performance, product demand, and regional sales trends.
 
+## Dashboard Preview
+![Dashboard](Dashboard_preview.png)
+
 ## Dataset Information
 The dataset contains sales transaction data with the following fields:
 
